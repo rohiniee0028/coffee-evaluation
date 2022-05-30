@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(227, 239, 235);
+}
+#order-form{
+    width:250px;
+    height:250px;
+    padding: 20px;
+    background-color: rgb(147, 164, 164);
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 10px;
+}
+form{
+    margin-top: 20px;
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    gap:15px;
+}
+input{
+    font-size: 20px;
+    outline: none;
+}
+#confirm{
+    font-size: 18px;
+    width:100px;
+    padding: 5px;
+    margin: auto;
+    border-radius: 10px;
+    background-color: rgb(49, 49, 97);
+    color:aliceblue;
+}
+#h2div{
+    text-align: center;
+}
